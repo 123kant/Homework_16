@@ -1,0 +1,21 @@
+{
+  "id" : 1,
+  "name" : "Learn HTML",
+  "owner" : {
+    "id" : 1,
+    "rollNo" : 13,
+    "name" : "Mark",
+    "books" : [
+      {
+        "id" : 1,
+        "name" : "Learn JAVA",
+        "owner" : 1
+      },
+      {
+        "id" : 2,
+        "name" : "Learn Python",
+        "owner" : 2
+      }
+    ]
+  }
+}
